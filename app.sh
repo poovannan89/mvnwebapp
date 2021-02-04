@@ -1,4 +1,4 @@
-echo Hello World
+echo Hello Chithra
 something()
 {
 	echo Testing the function
