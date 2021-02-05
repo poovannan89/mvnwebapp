@@ -2,7 +2,8 @@ echo Hello Chithra
 something()
 {
 	echo Testing the function
-	echo Bug fixed
+	echo Bug fixed 1
+	echo Bug fixed 2
 }
 something
 aNewFeature()
